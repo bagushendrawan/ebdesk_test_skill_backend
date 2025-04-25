@@ -1,1 +1,1 @@
-Ini adalah file sample awal
+Ini adalah isi dari sample.txt
